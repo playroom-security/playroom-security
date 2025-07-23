@@ -10,7 +10,7 @@ Welcome to my cloud-focused GitHub portfolio! I'm passionate about cybersecurity
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🌐 S3 Static Website Hosting](https://github.com/playroom-security/aws-s3-static-site) | Host a static website on S3 with error handling and bucket policies | S3, IAM |
+| [🌐 S3 Static Website Hosting](https://github.com/playroom-security/aws-s3-static-site) | Host a static website on S3 with error handling and bucket policies | S3, S3 Bucket policies |
 | [📊 CloudWatch Monitoring Lab](https://github.com/playroom-security/cloudwatch-monitoring-lab) | Monitor EC2 & S3 metrics with alarms and SNS alerts | EC2, CloudWatch, SNS |
 | [🔐 IAM Role & Policy Design](https://github.com/playroom-security/aws-iam-policies) | Create least privilege policies and audit access with IAM Analyzer | IAM |
 | [🏗️ VPC Architecture Lab](https://github.com/playroom-security/aws-vpc-architecture) | Deploy secure VPCs with NAT Gateways and Bastion Hosts | VPC, Subnets |
